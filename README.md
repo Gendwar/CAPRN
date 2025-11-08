@@ -10,4 +10,4 @@ Histological sections provide in-depth visualization of the fine anatomical stru
 <img src="Network.png" width="500">
 
 ## *Results*
-<img src="Results.png" width="500">
+<img src="results.png" width="500">
